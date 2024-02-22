@@ -1,0 +1,8 @@
+{
+    "name": "MDO ORG Sample Starter Workflow",
+    "description": "MDO ORG CI starter workflow.",
+    "iconName": "octicon smiley",
+    "filePatterns": [
+        "*"
+    ]
+}
