@@ -1,0 +1,8 @@
+{
+    "name": "mdo-test-org SuperLinter Template",
+    "description": "Starter for running SuperLinter in the mdo-test-org repositories...",
+    "iconName": "superlinter", 
+    "categories": [
+        "Lint", "SuperLinter", "CI"
+    ]
+}
